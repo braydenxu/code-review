@@ -1,5 +1,5 @@
 /**
- * Lei Xu code sample for interview code review section  -- Java Version
+ * code sample for interview code review section  -- Java Version
  *
  * This code is a simplified version of two functions of the tree-like file manager
  * modifyNode() is to modify (update, delete) any node (folder or file) metadata to a new value
