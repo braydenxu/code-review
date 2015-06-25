@@ -1,6 +1,6 @@
 <?php
 /**
- * Lei Xu code sample for interview code review section -- PHP version
+ * code sample for interview code review section -- PHP version
  *
  * This code is a simplified version of two functions of the tree-like file manager
  * modifyNode() is to modify (update, delete) any node (folder or file) metadata to a new value
